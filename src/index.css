@@ -1,13 +1,18 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  background: black;
+  color: white;
+  font-family: 'Courier New', Courier, monospace
+  /* background-image: url(https://img.freepik.com/foto-gratis/representacion-3d-fondo-abstracto-blanco-negro_23-2150913863.jpg?t=st=1709177945~exp=1709181545~hmac=08777f401b8fca26ebc500acbd6b195e2ec5ccbf63e38220bc6dc13f78366b47&w=996);
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; */
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+#root {
+  margin: 0 24px;
+  position: relative;
+  min-height: 100vh;
 }
