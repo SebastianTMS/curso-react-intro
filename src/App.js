@@ -8,8 +8,12 @@ import { CreateTodoButton } from "./components/CreateTodoButton/CreateTodoButton
 const defaultTodos = [
   { text: "Cortar cebolla", completed: true },
   { text: "Tomar el curso de Intro a React.js", completed: false },
-  { text: "Llorar con la llorona", completed: false },
+  { text: "Llorar con la llorona", completed: true },
+  { text: "Comer hamburguesa", completed: false },
   { text: "Comer hamburguesa", completed: true },
+  { text: "Comer hamburguesa", completed: false },
+  { text: "Comer hamburguesa", completed: true },
+  { text: "Comer hamburguesa", completed: false }
 ];
 
 //Componente de React
