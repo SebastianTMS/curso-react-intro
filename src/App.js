@@ -10,7 +10,6 @@ const defaultTodos = [
   { text: "Tomar el Curso de Intro a React.js", completed: false },
   { text: "Llorar con la Llorona", completed: false },
   { text: "LALALALALA", completed: false },
-  { text: "Usar estados derivados", completed: true },
 ];
 
 //Componente de React

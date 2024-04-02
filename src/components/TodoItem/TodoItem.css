@@ -23,35 +23,3 @@
   .TodoItem-p--complete {
     text-decoration: line-through;
   }
-  
-  .Icon {
-    cursor: pointer;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 48px;
-    width: 48px;
-    font-size: 24px;
-    font-weight: bold;
-    /* background-color: #CCC; */
-  }
-  
-  .Icon-check {
-    position: absolute;
-    left: 12px;
-    color: black;
-  }
-  
-  .Icon-check--active {
-    color: #4caf50;
-  }
-  
-  .Icon-delete {
-    position: absolute;
-    end: 12px;
-    right: 10px;
-    color: red;
-  }
-  .Icon-delete:hover {
-    color: rgb(212, 61, 61);
-  }
