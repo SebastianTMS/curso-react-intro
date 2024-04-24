@@ -12,9 +12,10 @@
     color: #ffffff;
     display: flex;
     justify-content: space-evenly;
-    align-items: self-start;
+    align-items: center;
     height: 64px;
     width: 64px;
+    z-index: 1;
   
     transform: rotate(0);
     transition: .3s ease;
