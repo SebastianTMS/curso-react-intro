@@ -10,8 +10,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "eject": "react-scripts eject"
   },
@@ -32,8 +30,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/SebastianTMS/curso-react-intro",
   "devDependencies": {
-    "gh-pages": "^6.1.1"
   }
 }
